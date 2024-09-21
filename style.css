@@ -1,4 +1,4 @@
-@media (min-width: 770px) {
+@media(min-width: 770px ) {
     #card {
       max-width: 500px;
     }
@@ -6,7 +6,7 @@
     #card img {
       width: 150px;
       height: 100px;
-      object-fit: cover;
+      object-fit:cover ;
     }
   }
   
